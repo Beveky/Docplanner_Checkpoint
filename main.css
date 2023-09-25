@@ -104,6 +104,9 @@ header {
 #navgrey {
   color: #ababab;
 }
+#navgrey:hover {
+  color: #00b39b;
+}
 .about {
   color: #00b39b;
 }
